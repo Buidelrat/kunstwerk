@@ -31,7 +31,7 @@ function draw() { //in deze functie staat alles wat je tekent
   
   noStroke(); //geen rand
   fill(random() * 255, random() * 255, random() * 255); //kleur random in alle kleuren
-  circle(random()*700, random()*400, cirkelDiameter); //circle random plaatsen tussen y:400 en x:700. cirkelDiameter is een variable
+  circle(random()*windowWidth, random()*windowHeight, cirkelDiameter); //circle random plaatsen tussen y:400 en x:700. cirkelDiameter is een variable
   
   
   
