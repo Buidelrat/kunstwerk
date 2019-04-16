@@ -1,7 +1,7 @@
 var cirkelDiameter = 30 //soort 'laatje'waarop staat wat er in zit
 
 function setup() { // hoe het wordt opgezet.
-  createCanvas(700, 400); // scherm en grootte
+  createCanvas(windowWidth, windowHeight); // scherm en grootte
   background(50); //achtergrondkleur
 }
 
