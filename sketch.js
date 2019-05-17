@@ -34,6 +34,6 @@ function draw() { //in deze functie staat alles wat je tekent
   circle(random()*windowWidth, random()*windowHeight, cirkelDiameter); //circle random plaatsen tussen y:400 en x:700. cirkelDiameter is een variable
   
   //ganggoals
-  
+ // lol
   
 } //einde
