@@ -33,7 +33,7 @@ function draw() { //in deze functie staat alles wat je tekent
   fill(random() * 255, random() * 255, random() * 255); //kleur random in alle kleuren
   circle(random()*windowWidth, random()*windowHeight, cirkelDiameter); //circle random plaatsen tussen y:400 en x:700. cirkelDiameter is een variable
   
-  
+  //ganggoals
   
   
 } //einde
